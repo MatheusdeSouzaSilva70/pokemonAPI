@@ -22,7 +22,7 @@ Projeto desenvolvido para praticar os conhecimentos de ReactJS e consumo de Api 
 
 ```bash
 # clonar repositório
-git clone https://github.com/hugorafaelll/pokemonAPI.git
+git clone 
 
 
 Pré-requisitos: npm / yarn

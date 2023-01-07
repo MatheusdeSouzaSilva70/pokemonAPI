@@ -42,4 +42,4 @@ yarn start
 ```
 
 # Autor
-https://www.linkedin.com/in/hugorafaell/
+
